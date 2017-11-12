@@ -20,6 +20,8 @@
         android:textSize="45sp"
         android:paddingLeft="16dp"
         android:paddingTop="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="8dp"
         android:background="#009688"/>
 
     <TextView
@@ -29,6 +31,7 @@
         android:textColor="@android:color/white"
         android:textSize="24sp"
         android:paddingLeft="16dp"
+        android:paddingRight="16dp"
         android:paddingBottom="16dp"
         android:background="#009688"/>
 
